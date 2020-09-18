@@ -47,6 +47,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -76,7 +77,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -109,7 +109,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="232" y="135" width="1080" height="624" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3295562" />
@@ -129,9 +128,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/plan/scy/plan1(8.18-8.24)">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/Himcm.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -148,6 +144,9 @@
           <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plan/scy/plan1(8.18-8.24)">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
